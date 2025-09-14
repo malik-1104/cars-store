@@ -1,0 +1,99 @@
+[
+  {
+    "matricule": "1017",
+    "name": "BMW X5 xDrive",
+    "year": "2023",
+    "entryDate": "2025-08-01",
+    "carType": "Luxury",
+    "price": "90000",
+    "mileage": "10000",
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "engine": "3.0L Inline-6 Turbo",
+    "driveType": "AWD",
+    "color": "White",
+    "images": [
+      "/uploads/BMW X5-1.jpg",
+      "/uploads/BMW X5-2.jpg",
+      "/uploads/BMW X5-3.jpg",
+      "/uploads/BMW X5-4.jpg"
+    ],
+    "saleAt": "2025-09-14T02:15:34.593Z"
+  },
+  {
+    "matricule": "1020",
+    "name": "Toyota Corolla",
+    "year": "2023",
+    "entryDate": "2025-08-15",
+    "carType": "Economy",
+    "price": "25000",
+    "mileage": "15000",
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "engine": "1.8L I4",
+    "driveType": "FWD",
+    "color": "White",
+    "images": [
+      "/uploads/Corolla-1.jpg",
+      "/uploads/Corolla-2.jpg",
+      "/uploads/Corolla-3.jpg"
+    ]
+  },
+  {
+    "matricule": "1021",
+    "name": "Honda Civic",
+    "year": "2023",
+    "entryDate": "2025-08-20",
+    "carType": "Economy",
+    "price": "28000",
+    "mileage": "12000",
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "engine": "2.0L I4",
+    "driveType": "FWD",
+    "color": "Blue",
+    "images": [
+      "/uploads/Honda-1.jpg",
+      "/uploads/Honda-2.jpg",
+      "/uploads/Honda-3.jpg"
+    ]
+  },
+  {
+    "matricule": "1022",
+    "name": "Tesla Model 3",
+    "year": "2023",
+    "entryDate": "2025-08-25",
+    "carType": "Electric",
+    "price": "45000",
+    "mileage": "10000",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "engine": "Electric",
+    "driveType": "RWD",
+    "color": "Black",
+    "images": [
+      "/uploads/tesla-1.jpg",
+      "/uploads/tesla-2.jpg",
+      "/uploads/tesla-3.jpg"
+    ]
+  },
+  {
+    "matricule": "1024",
+    "name": "BMW i5",
+    "year": "2024",
+    "entryDate": "2025-09-01",
+    "carType": "Electric",
+    "price": "55000",
+    "mileage": "5000",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "engine": "Electric",
+    "driveType": "AWD",
+    "color": "Gray",
+    "images": [
+      "/uploads/bmwi5-1.jpg",
+      "/uploads/bmwi5-2.jpg",
+      "/uploads/bmwi5-3.jpg"
+    ]
+  }
+]

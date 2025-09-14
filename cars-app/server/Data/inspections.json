@@ -1,0 +1,22 @@
+[
+  {
+    "carId": "1017",
+    "inspectionDate": "2025-09-18",
+    "issues": "Freins avant usés, petite fuite d'huile",
+    "repairCost": "1425",
+    "mileage": "50230",
+    "notes": "Prochain contrôle dans 6 mois",
+    "idInspection": "qc9i5u2",
+    "updatedAt": "2025-09-13T16:16:10.882Z"
+  },
+  {
+    "carId": "1022",
+    "inspectionDate": "2025-09-20",
+    "issues": "Batterie faible, pneus arrière usés",
+    "repairCost": "88",
+    "mileage": "47890",
+    "notes": "Remplacer les pneus bientôt",
+    "idInspection": "jlsrt0s",
+    "createdAt": "2025-09-13T18:59:46.573Z"
+  }
+]
